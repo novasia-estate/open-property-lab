@@ -1,0 +1,682 @@
+{
+  "k": 3,
+  "scope": "Authored synthetic English/Russian cases; not live listings, trained-model performance or a representative benchmark.",
+  "candidate_count": 8,
+  "query_count": 14,
+  "summary": [
+    {
+      "system": "lexical_only",
+      "answerable_queries": 12,
+      "precision_at_k": 0.4444444444444444,
+      "recall_at_k": 0.8611111111111112,
+      "ndcg_at_k": 0.8986936040011022,
+      "reciprocal_rank_at_k": 0.9166666666666666,
+      "no_relevant_queries": 2,
+      "correct_empty_results": 0
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "answerable_queries": 12,
+      "precision_at_k": 0.5555555555555555,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "no_relevant_queries": 2,
+      "correct_empty_results": 2
+    }
+  ],
+  "per_query": [
+    {
+      "system": "lexical_only",
+      "query_id": "pets-metro-en",
+      "language": "en",
+      "query": "At least two bedrooms near metro with pets",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_budget_points": 100,
+        "pets": "allowed",
+        "near_transit": true
+      },
+      "ranking": [
+        "amber",
+        "birch",
+        "fern",
+        "dune",
+        "elm",
+        "glade",
+        "heath",
+        "cobalt"
+      ],
+      "missed_relevant_ids": [
+        "dune"
+      ],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 0.6666666666666666,
+      "ndcg_at_k": 0.8344475896326595,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 3,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "pets-metro-ru",
+      "language": "ru",
+      "query": "Минимум две спальни у метро можно с питомцами",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_budget_points": 100,
+        "pets": "allowed",
+        "near_transit": true
+      },
+      "ranking": [
+        "amber",
+        "fern",
+        "birch",
+        "dune",
+        "cobalt",
+        "glade",
+        "elm",
+        "heath"
+      ],
+      "missed_relevant_ids": [
+        "dune"
+      ],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 0.6666666666666666,
+      "ndcg_at_k": 0.9072836011519267,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 3,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "budget-transit-en",
+      "language": "en",
+      "query": "Near metro budget at most75",
+      "explicit_filters": {
+        "max_budget_points": 75,
+        "near_transit": true
+      },
+      "ranking": [
+        "amber",
+        "birch",
+        "dune",
+        "fern",
+        "heath"
+      ],
+      "missed_relevant_ids": [
+        "heath"
+      ],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 0.5,
+      "ndcg_at_k": 0.52129602861432,
+      "reciprocal_rank_at_k": 0.5,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "budget-transit-ru",
+      "language": "ru",
+      "query": "У метро бюджет не больше75",
+      "explicit_filters": {
+        "max_budget_points": 75,
+        "near_transit": true
+      },
+      "ranking": [
+        "amber",
+        "birch",
+        "dune",
+        "fern",
+        "heath"
+      ],
+      "missed_relevant_ids": [
+        "heath"
+      ],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 0.5,
+      "ndcg_at_k": 0.52129602861432,
+      "reciprocal_rank_at_k": 0.5,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "one-pets-en",
+      "language": "en",
+      "query": "One bedroom pets allowed",
+      "explicit_filters": {
+        "min_bedrooms": 1,
+        "max_bedrooms": 1,
+        "pets": "allowed"
+      },
+      "ranking": [
+        "cobalt",
+        "amber",
+        "birch",
+        "dune",
+        "fern",
+        "glade",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "one-pets-ru",
+      "language": "ru",
+      "query": "Одна спальня можно с питомцами",
+      "explicit_filters": {
+        "min_bedrooms": 1,
+        "max_bedrooms": 1,
+        "pets": "allowed"
+      },
+      "ranking": [
+        "cobalt",
+        "amber",
+        "dune",
+        "fern",
+        "birch",
+        "glade",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "three-budget-en",
+      "language": "en",
+      "query": "Three bedrooms budget at most100",
+      "explicit_filters": {
+        "min_bedrooms": 3,
+        "max_bedrooms": 3,
+        "max_budget_points": 100
+      },
+      "ranking": [
+        "dune",
+        "glade",
+        "amber",
+        "birch",
+        "elm",
+        "fern"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "three-budget-ru",
+      "language": "ru",
+      "query": "Три спальни бюджет не больше100",
+      "explicit_filters": {
+        "min_bedrooms": 3,
+        "max_bedrooms": 3,
+        "max_budget_points": 100
+      },
+      "ranking": [
+        "dune",
+        "glade",
+        "amber",
+        "birch",
+        "elm",
+        "fern"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "garden-two-en",
+      "language": "en",
+      "query": "Two bedrooms garden",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_bedrooms": 2,
+        "garden": true
+      },
+      "ranking": [
+        "elm",
+        "amber",
+        "birch",
+        "fern",
+        "glade",
+        "cobalt",
+        "dune"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "garden-two-ru",
+      "language": "ru",
+      "query": "Две спальни сад",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_bedrooms": 2,
+        "garden": true
+      },
+      "ranking": [
+        "elm",
+        "amber",
+        "birch",
+        "fern",
+        "glade",
+        "cobalt",
+        "dune"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "policy-unknown-en",
+      "language": "en",
+      "query": "Pet policy unknown",
+      "explicit_filters": {
+        "pets": "unknown"
+      },
+      "ranking": [
+        "elm",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 2
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "policy-unknown-ru",
+      "language": "ru",
+      "query": "Правила о питомцах неизвестны",
+      "explicit_filters": {
+        "pets": "unknown"
+      },
+      "ranking": [
+        "elm",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 2
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "no-match-en",
+      "language": "en",
+      "query": "Four bedrooms",
+      "explicit_filters": {
+        "min_bedrooms": 4
+      },
+      "ranking": [
+        "amber",
+        "birch",
+        "dune",
+        "elm",
+        "fern",
+        "glade"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "ndcg_at_k": 0.0,
+      "reciprocal_rank_at_k": 0.0,
+      "relevant_candidates": 0,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "lexical_only",
+      "query_id": "no-match-ru",
+      "language": "ru",
+      "query": "Четыре спальни",
+      "explicit_filters": {
+        "min_bedrooms": 4
+      },
+      "ranking": [
+        "amber",
+        "birch",
+        "dune",
+        "elm",
+        "fern",
+        "glade"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "ndcg_at_k": 0.0,
+      "reciprocal_rank_at_k": 0.0,
+      "relevant_candidates": 0,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "pets-metro-en",
+      "language": "en",
+      "query": "At least two bedrooms near metro with pets",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_budget_points": 100,
+        "pets": "allowed",
+        "near_transit": true
+      },
+      "ranking": [
+        "amber",
+        "fern",
+        "dune"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 3,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "pets-metro-ru",
+      "language": "ru",
+      "query": "Минимум две спальни у метро можно с питомцами",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_budget_points": 100,
+        "pets": "allowed",
+        "near_transit": true
+      },
+      "ranking": [
+        "amber",
+        "fern",
+        "dune"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 3,
+      "retrieved_at_k": 3
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "budget-transit-en",
+      "language": "en",
+      "query": "Near metro budget at most75",
+      "explicit_filters": {
+        "max_budget_points": 75,
+        "near_transit": true
+      },
+      "ranking": [
+        "birch",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 2
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "budget-transit-ru",
+      "language": "ru",
+      "query": "У метро бюджет не больше75",
+      "explicit_filters": {
+        "max_budget_points": 75,
+        "near_transit": true
+      },
+      "ranking": [
+        "birch",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 2
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "one-pets-en",
+      "language": "en",
+      "query": "One bedroom pets allowed",
+      "explicit_filters": {
+        "min_bedrooms": 1,
+        "max_bedrooms": 1,
+        "pets": "allowed"
+      },
+      "ranking": [
+        "cobalt"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 1
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "one-pets-ru",
+      "language": "ru",
+      "query": "Одна спальня можно с питомцами",
+      "explicit_filters": {
+        "min_bedrooms": 1,
+        "max_bedrooms": 1,
+        "pets": "allowed"
+      },
+      "ranking": [
+        "cobalt"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 1
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "three-budget-en",
+      "language": "en",
+      "query": "Three bedrooms budget at most100",
+      "explicit_filters": {
+        "min_bedrooms": 3,
+        "max_bedrooms": 3,
+        "max_budget_points": 100
+      },
+      "ranking": [
+        "dune"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 1
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "three-budget-ru",
+      "language": "ru",
+      "query": "Три спальни бюджет не больше100",
+      "explicit_filters": {
+        "min_bedrooms": 3,
+        "max_bedrooms": 3,
+        "max_budget_points": 100
+      },
+      "ranking": [
+        "dune"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 1
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "garden-two-en",
+      "language": "en",
+      "query": "Two bedrooms garden",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_bedrooms": 2,
+        "garden": true
+      },
+      "ranking": [
+        "elm"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 1
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "garden-two-ru",
+      "language": "ru",
+      "query": "Две спальни сад",
+      "explicit_filters": {
+        "min_bedrooms": 2,
+        "max_bedrooms": 2,
+        "garden": true
+      },
+      "ranking": [
+        "elm"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.3333333333333333,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 1,
+      "retrieved_at_k": 1
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "policy-unknown-en",
+      "language": "en",
+      "query": "Pet policy unknown",
+      "explicit_filters": {
+        "pets": "unknown"
+      },
+      "ranking": [
+        "elm",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 2
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "policy-unknown-ru",
+      "language": "ru",
+      "query": "Правила о питомцах неизвестны",
+      "explicit_filters": {
+        "pets": "unknown"
+      },
+      "ranking": [
+        "elm",
+        "heath"
+      ],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.6666666666666666,
+      "recall_at_k": 1.0,
+      "ndcg_at_k": 1.0,
+      "reciprocal_rank_at_k": 1.0,
+      "relevant_candidates": 2,
+      "retrieved_at_k": 2
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "no-match-en",
+      "language": "en",
+      "query": "Four bedrooms",
+      "explicit_filters": {
+        "min_bedrooms": 4
+      },
+      "ranking": [],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "ndcg_at_k": 0.0,
+      "reciprocal_rank_at_k": 0.0,
+      "relevant_candidates": 0,
+      "retrieved_at_k": 0
+    },
+    {
+      "system": "explicit_filters_plus_lexical",
+      "query_id": "no-match-ru",
+      "language": "ru",
+      "query": "Четыре спальни",
+      "explicit_filters": {
+        "min_bedrooms": 4
+      },
+      "ranking": [],
+      "missed_relevant_ids": [],
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "ndcg_at_k": 0.0,
+      "reciprocal_rank_at_k": 0.0,
+      "relevant_candidates": 0,
+      "retrieved_at_k": 0
+    }
+  ]
+}

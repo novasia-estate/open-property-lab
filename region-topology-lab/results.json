@@ -1,0 +1,133 @@
+{
+  "clean_partition": {
+    "units": "caller-supplied drawing units; areas are squared units",
+    "envelope_area": "96",
+    "covered_union_area": "96",
+    "uncovered_area": "0",
+    "multiply_covered_area": "0",
+    "region_area": {
+      "left": "48",
+      "right": "48"
+    },
+    "outside_envelope_area": {
+      "left": "0",
+      "right": "0"
+    },
+    "exclusive_interfaces": [
+      {
+        "regions": [
+          "left",
+          "right"
+        ],
+        "length": "8"
+      }
+    ],
+    "cells": [],
+    "grid_cells": 2
+  },
+  "narrow_gap": {
+    "units": "caller-supplied drawing units; areas are squared units",
+    "envelope_area": "96",
+    "covered_union_area": "472/5",
+    "uncovered_area": "8/5",
+    "multiply_covered_area": "0",
+    "region_area": {
+      "left": "236/5",
+      "right": "236/5"
+    },
+    "outside_envelope_area": {
+      "left": "0",
+      "right": "0"
+    },
+    "exclusive_interfaces": [],
+    "cells": [
+      {
+        "kind": "gap",
+        "bbox": [
+          "59/10",
+          "0",
+          "61/10",
+          "8"
+        ],
+        "regions": [],
+        "area": "8/5"
+      }
+    ],
+    "grid_cells": 3
+  },
+  "overlapping_regions": {
+    "units": "caller-supplied drawing units; areas are squared units",
+    "envelope_area": "96",
+    "covered_union_area": "96",
+    "uncovered_area": "0",
+    "multiply_covered_area": "16/5",
+    "region_area": {
+      "left": "248/5",
+      "right": "248/5"
+    },
+    "outside_envelope_area": {
+      "left": "0",
+      "right": "0"
+    },
+    "exclusive_interfaces": [],
+    "cells": [
+      {
+        "kind": "overlap",
+        "bbox": [
+          "29/5",
+          "0",
+          "31/5",
+          "8"
+        ],
+        "regions": [
+          "left",
+          "right"
+        ],
+        "area": "16/5"
+      }
+    ],
+    "grid_cells": 3
+  },
+  "l_shaped_partition": {
+    "units": "caller-supplied drawing units; areas are squared units",
+    "envelope_area": "96",
+    "covered_union_area": "96",
+    "uncovered_area": "0",
+    "multiply_covered_area": "0",
+    "region_area": {
+      "living": "72",
+      "bedroom": "24"
+    },
+    "outside_envelope_area": {
+      "living": "0",
+      "bedroom": "0"
+    },
+    "exclusive_interfaces": [
+      {
+        "regions": [
+          "bedroom",
+          "living"
+        ],
+        "length": "10"
+      }
+    ],
+    "cells": [],
+    "grid_cells": 4
+  },
+  "outside_envelope": {
+    "units": "caller-supplied drawing units; areas are squared units",
+    "envelope_area": "96",
+    "covered_union_area": "96",
+    "uncovered_area": "0",
+    "multiply_covered_area": "0",
+    "region_area": {
+      "overshoot": "104"
+    },
+    "outside_envelope_area": {
+      "overshoot": "8"
+    },
+    "exclusive_interfaces": [],
+    "cells": [],
+    "grid_cells": 2
+  }
+}

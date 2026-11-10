@@ -1,0 +1,7 @@
+{
+  "clean_partition":{"envelope":[[0,0],[12,0],[12,8],[0,8]],"regions":[{"id":"left","polygon":[[0,0],[6,0],[6,8],[0,8]]},{"id":"right","polygon":[[6,0],[12,0],[12,8],[6,8]]}]},
+  "narrow_gap":{"envelope":[[0,0],[12,0],[12,8],[0,8]],"regions":[{"id":"left","polygon":[[0,0],["5.9",0],["5.9",8],[0,8]]},{"id":"right","polygon":[["6.1",0],[12,0],[12,8],["6.1",8]]}]},
+  "overlapping_regions":{"envelope":[[0,0],[12,0],[12,8],[0,8]],"regions":[{"id":"left","polygon":[[0,0],["6.2",0],["6.2",8],[0,8]]},{"id":"right","polygon":[["5.8",0],[12,0],[12,8],["5.8",8]]}]},
+  "l_shaped_partition":{"envelope":[[0,0],[12,0],[12,8],[0,8]],"regions":[{"id":"living","polygon":[[0,0],[12,0],[12,4],[6,4],[6,8],[0,8]]},{"id":"bedroom","polygon":[[6,4],[12,4],[12,8],[6,8]]}]},
+  "outside_envelope":{"envelope":[[0,0],[12,0],[12,8],[0,8]],"regions":[{"id":"overshoot","polygon":[[0,0],[13,0],[13,8],[0,8]]}]}
+}

@@ -1,0 +1,33 @@
+name: Topology and search notebook labs
+on:
+  push:
+    paths:
+      - 'region-topology-lab/**'
+      - 'listing-search-evaluation/**'
+      - '.github/workflows/notebook-labs.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  notebook-labs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install nbclient nbformat ipykernel
+      - run: python -m unittest -v test_topology
+        working-directory: region-topology-lab
+      - run: python -m unittest -v test_search_eval
+        working-directory: listing-search-evaluation
+      - name: Execute both complete notebooks
+        run: |
+          import nbformat
+          from nbclient import NotebookClient
+          from pathlib import Path
+          for folder,name in [('region-topology-lab','region-topology.ipynb'),('listing-search-evaluation','listing-search-evaluation.ipynb')]:
+              nb=nbformat.read(Path(folder)/name,as_version=4)
+              NotebookClient(nb,timeout=90,kernel_name='python3',resources={'metadata':{'path':folder}}).execute()
+              assert not any(o.output_type=='error' for c in nb.cells if c.cell_type=='code' for o in c.outputs)
+        shell: python

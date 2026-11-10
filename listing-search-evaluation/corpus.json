@@ -1,0 +1,10 @@
+[
+ {"id":"amber","bedrooms":2,"budget_points":80,"pets":"allowed","near_transit":true,"garden":false,"en":"Two bedrooms near metro pets allowed","ru":"Две спальни у метро можно с питомцами"},
+ {"id":"birch","bedrooms":2,"budget_points":70,"pets":"not_allowed","near_transit":true,"garden":false,"en":"Two bedrooms near metro pets not allowed","ru":"Две спальни у метро нельзя с питомцами"},
+ {"id":"cobalt","bedrooms":1,"budget_points":45,"pets":"allowed","near_transit":false,"garden":true,"en":"One bedroom garden pets allowed","ru":"Одна спальня сад можно с питомцами"},
+ {"id":"dune","bedrooms":3,"budget_points":90,"pets":"allowed","near_transit":true,"garden":false,"en":"Three bedrooms near metro pets allowed","ru":"Три спальни у метро можно с питомцами"},
+ {"id":"elm","bedrooms":2,"budget_points":65,"pets":"unknown","near_transit":false,"garden":true,"en":"Two bedrooms garden pet policy unknown","ru":"Две спальни сад правила о питомцах неизвестны"},
+ {"id":"fern","bedrooms":2,"budget_points":95,"pets":"allowed","near_transit":true,"garden":false,"en":"Two bedrooms near metro pets allowed","ru":"Две спальни у метро можно с питомцами"},
+ {"id":"glade","bedrooms":3,"budget_points":110,"pets":"not_allowed","near_transit":false,"garden":true,"en":"Three bedrooms garden pets not allowed","ru":"Три спальни сад нельзя с питомцами"},
+ {"id":"heath","bedrooms":1,"budget_points":60,"pets":"unknown","near_transit":true,"garden":false,"en":"One bedroom near metro pet policy unknown","ru":"Одна спальня у метро правила о питомцах неизвестны"}
+]

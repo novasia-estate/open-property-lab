@@ -1,0 +1,16 @@
+[
+ {"id":"pets-metro-en","language":"en","text":"At least two bedrooms near metro with pets","criteria":{"min_bedrooms":2,"max_budget_points":100,"pets":"allowed","near_transit":true}},
+ {"id":"pets-metro-ru","language":"ru","text":"Минимум две спальни у метро можно с питомцами","criteria":{"min_bedrooms":2,"max_budget_points":100,"pets":"allowed","near_transit":true}},
+ {"id":"budget-transit-en","language":"en","text":"Near metro budget at most75","criteria":{"max_budget_points":75,"near_transit":true}},
+ {"id":"budget-transit-ru","language":"ru","text":"У метро бюджет не больше75","criteria":{"max_budget_points":75,"near_transit":true}},
+ {"id":"one-pets-en","language":"en","text":"One bedroom pets allowed","criteria":{"min_bedrooms":1,"max_bedrooms":1,"pets":"allowed"}},
+ {"id":"one-pets-ru","language":"ru","text":"Одна спальня можно с питомцами","criteria":{"min_bedrooms":1,"max_bedrooms":1,"pets":"allowed"}},
+ {"id":"three-budget-en","language":"en","text":"Three bedrooms budget at most100","criteria":{"min_bedrooms":3,"max_bedrooms":3,"max_budget_points":100}},
+ {"id":"three-budget-ru","language":"ru","text":"Три спальни бюджет не больше100","criteria":{"min_bedrooms":3,"max_bedrooms":3,"max_budget_points":100}},
+ {"id":"garden-two-en","language":"en","text":"Two bedrooms garden","criteria":{"min_bedrooms":2,"max_bedrooms":2,"garden":true}},
+ {"id":"garden-two-ru","language":"ru","text":"Две спальни сад","criteria":{"min_bedrooms":2,"max_bedrooms":2,"garden":true}},
+ {"id":"policy-unknown-en","language":"en","text":"Pet policy unknown","criteria":{"pets":"unknown"}},
+ {"id":"policy-unknown-ru","language":"ru","text":"Правила о питомцах неизвестны","criteria":{"pets":"unknown"}},
+ {"id":"no-match-en","language":"en","text":"Four bedrooms","criteria":{"min_bedrooms":4}},
+ {"id":"no-match-ru","language":"ru","text":"Четыре спальни","criteria":{"min_bedrooms":4}}
+]

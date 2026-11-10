@@ -1,0 +1,16 @@
+{
+ "pets-metro-en":{"amber":2,"birch":0,"cobalt":0,"dune":1,"elm":0,"fern":2,"glade":0,"heath":0},
+ "pets-metro-ru":{"amber":2,"birch":0,"cobalt":0,"dune":1,"elm":0,"fern":2,"glade":0,"heath":0},
+ "budget-transit-en":{"amber":0,"birch":2,"cobalt":0,"dune":0,"elm":0,"fern":0,"glade":0,"heath":1},
+ "budget-transit-ru":{"amber":0,"birch":2,"cobalt":0,"dune":0,"elm":0,"fern":0,"glade":0,"heath":1},
+ "one-pets-en":{"amber":0,"birch":0,"cobalt":2,"dune":0,"elm":0,"fern":0,"glade":0,"heath":0},
+ "one-pets-ru":{"amber":0,"birch":0,"cobalt":2,"dune":0,"elm":0,"fern":0,"glade":0,"heath":0},
+ "three-budget-en":{"amber":0,"birch":0,"cobalt":0,"dune":2,"elm":0,"fern":0,"glade":0,"heath":0},
+ "three-budget-ru":{"amber":0,"birch":0,"cobalt":0,"dune":2,"elm":0,"fern":0,"glade":0,"heath":0},
+ "garden-two-en":{"amber":0,"birch":0,"cobalt":0,"dune":0,"elm":2,"fern":0,"glade":0,"heath":0},
+ "garden-two-ru":{"amber":0,"birch":0,"cobalt":0,"dune":0,"elm":2,"fern":0,"glade":0,"heath":0},
+ "policy-unknown-en":{"amber":0,"birch":0,"cobalt":0,"dune":0,"elm":2,"fern":0,"glade":0,"heath":2},
+ "policy-unknown-ru":{"amber":0,"birch":0,"cobalt":0,"dune":0,"elm":2,"fern":0,"glade":0,"heath":2},
+ "no-match-en":{"amber":0,"birch":0,"cobalt":0,"dune":0,"elm":0,"fern":0,"glade":0,"heath":0},
+ "no-match-ru":{"amber":0,"birch":0,"cobalt":0,"dune":0,"elm":0,"fern":0,"glade":0,"heath":0}
+}
