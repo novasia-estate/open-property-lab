@@ -6,7 +6,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression><PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://novasia.estate/</PackageProjectUrl><RepositoryUrl>https://github.com/novasia-estate/open-property-lab</RepositoryUrl>
     <PackageTags>allocation;rounding;service-charges;property;accounting</PackageTags><GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <NoWarn>$(NoWarn);1591</NoWarn><Compile Remove="tests/**/*.cs" />
+    <NoWarn>$(NoWarn);1591</NoWarn>
   </PropertyGroup>
-  <ItemGroup><None Include="README.md" Pack="true" PackagePath="/" /><None Include="LICENSE" Pack="true" PackagePath="/" /></ItemGroup>
+  <ItemGroup><Compile Remove="tests/**/*.cs" /><None Include="README.md" Pack="true" PackagePath="/" /><None Include="LICENSE" Pack="true" PackagePath="/" /></ItemGroup>
 </Project>

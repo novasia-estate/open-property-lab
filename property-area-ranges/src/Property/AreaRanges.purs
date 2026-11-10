@@ -1,5 +1,5 @@
 module Property.AreaRanges
-  ( Basis(..), Unit(..), AreaRange, Problem(..), bounds, exactRange, fromRounded
+  ( Basis(..), AreaUnit(..), AreaRange, Problem(..), bounds, exactRange, fromRounded
   , intersect, pricePerArea
   ) where
 
@@ -9,7 +9,7 @@ import Data.Number as Number
 
 data Basis = NetInternal | GrossInternal | LandArea | Unspecified
 derive instance eqBasis :: Eq Basis
-data Unit = SquareMetres | SquareFeet
+data AreaUnit = SquareMetres | SquareFeet
 data Problem = InvalidBounds | InvalidPrecision | BasisUnknown | BasisMismatch | Disjoint | ZeroDenominator | InvalidPrice | ArithmeticOverflow
 derive instance eqProblem :: Eq Problem
 newtype AreaRange = AreaRange { lower :: Number, upper :: Number, basis :: Basis }
@@ -18,18 +18,18 @@ newtype AreaRange = AreaRange { lower :: Number, upper :: Number, basis :: Basis
 bounds :: AreaRange -> { lower :: Number, upper :: Number, basis :: Basis }
 bounds (AreaRange r) = r
 
-factor :: Unit -> Number
+factor :: AreaUnit -> Number
 factor SquareMetres = 1.0
 factor SquareFeet = 0.09290304
 
-exactRange :: Unit -> Basis -> Number -> Number -> Either Problem AreaRange
+exactRange :: AreaUnit -> Basis -> Number -> Number -> Either Problem AreaRange
 exactRange unit basis lower upper
   | not (Number.isFinite lower && Number.isFinite upper) || lower < 0.0 || lower > upper = Left InvalidBounds
   | otherwise = Right (AreaRange { lower: lower * factor unit, upper: upper * factor unit, basis })
 
 -- Caller states that a nonnegative observation was rounded to nearest decimal quantum.
 -- Boundaries are inclusive conservative envelopes, not a claim about tie-breaking rules.
-fromRounded :: Unit -> Basis -> Number -> Int -> Either Problem AreaRange
+fromRounded :: AreaUnit -> Basis -> Number -> Int -> Either Problem AreaRange
 fromRounded unit basis value decimals
   | decimals < 0 || decimals > 6 = Left InvalidPrecision
   | not (Number.isFinite value) || value < 0.0 = Left InvalidBounds
