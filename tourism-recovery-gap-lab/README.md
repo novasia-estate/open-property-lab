@@ -1,6 +1,8 @@
-# Tourism Recovery Gap Lab
+# Historical Tourism Data Coverage Lab
 
-Annual international-arrivals series,2000–2025, with missing data preserved and2019 used as an explicit common-year reference. UN Tourism data distributed by World Bank WDI. Arrivals count trips, not unique people; country collection methods differ. Annual observations cannot demonstrate monthly seasonality or rental occupancy.
+Annual international-arrivals series, 2000–2025, with missing data preserved and 2019 used as an explicit common-year reference. UN Tourism data distributed by World Bank WDI. Arrivals count trips, not unique people; country collection methods differ. Annual observations cannot demonstrate monthly seasonality or rental occupancy.
+
+**Coverage checked on 10 November 2026:** Thailand ends in 2019; Cambodia and Indonesia end in 2020. Requested later years are missing. The 2019 baseline is a pre-pandemic comparison year, not a current observation. This dataset cannot measure recovery in 2026.
 
 ## Reproduce and inspect
 

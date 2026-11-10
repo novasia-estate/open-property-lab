@@ -11,10 +11,9 @@ package:
       - console
       - exceptions
   publish:
-    version: 1.0.0
+    version: 1.0.1
     license: MIT
     location:
       githubOwner: novasia-estate
-      githubRepo: open-property-lab
-      subdir: property-area-ranges
+      githubRepo: property-area-ranges
 workspace: {}
