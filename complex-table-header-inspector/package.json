@@ -1,0 +1,9 @@
+{
+  "name": "complex-table-header-inspector",
+  "version": "1.0.0",
+  "private": true,
+  "description": "On-demand local review of explicit and scoped HTML table headers",
+  "license": "MIT",
+  "scripts": { "test": "node test.cjs" },
+  "devDependencies": { "jsdom": "26.1.0" }
+}
