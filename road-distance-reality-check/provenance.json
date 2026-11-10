@@ -1,0 +1,8 @@
+{
+  "retrieved_at": "2026-11-10T13:30:36.629725+00:00",
+  "engine": "OSRM public demonstration service, driving profile",
+  "attribution": "Routing: OSRM; map data: OpenStreetMap contributors (ODbL).",
+  "selection": "12 deliberately chosen coordinate-pair examples around3 approximate city anchors. Not property addresses, random samples or representative city accessibility statistics.",
+  "limits": "Road distance is for snapped endpoints; the straight line uses queried endpoints. Review snapping distances separately. Network and profile are model assumptions; no live traffic or travel-time promise.",
+  "usage": "12 sequential cached requests, at most1/sec. Public published charts never call the demo service."
+}

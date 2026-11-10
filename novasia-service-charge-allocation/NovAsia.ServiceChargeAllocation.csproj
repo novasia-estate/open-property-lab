@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable>
+    <PackageId>NovAsia.ServiceChargeAllocation</PackageId><Version>1.0.0</Version><Authors>NovAsia Estate</Authors>
+    <Description>Exact minor-unit apportionment of caller-defined shared expenses using deterministic largest remainders and auditable weight fractions.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression><PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://novasia.estate/</PackageProjectUrl><RepositoryUrl>https://github.com/novasia-estate/open-property-lab</RepositoryUrl>
+    <PackageTags>allocation;rounding;service-charges;property;accounting</PackageTags><GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn><Compile Remove="tests/**/*.cs" />
+  </PropertyGroup>
+  <ItemGroup><None Include="README.md" Pack="true" PackagePath="/" /><None Include="LICENSE" Pack="true" PackagePath="/" /></ItemGroup>
+</Project>

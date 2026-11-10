@@ -1,0 +1,530 @@
+[
+  {
+    "case_id": "bangkok-1",
+    "url": "https://router.project-osrm.org/route/v1/driving/100.5018,13.7563;100.5368,13.7763?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 581.4,
+              "summary": "",
+              "duration": 581.4,
+              "distance": 5991.9
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 581.4,
+          "duration": 581.4,
+          "distance": 5991.9
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Bwt9gP___38HAAAAEgAAABUAAAAcAAAA2LicQDcj5kBbtlpBUj-TQQcAAAASAAAAFQAAABwAAABlKgEALYn9BbHn0QAoif0FjOfRAAIATxEAAAAA",
+          "location": [
+            100.501805,
+            13.756337
+          ],
+          "name": "\u0e27\u0e07\u0e40\u0e27\u0e35\u0e22\u0e19\u0e2d\u0e19\u0e38\u0e2a\u0e32\u0e27\u0e23\u0e35\u0e22\u0e4c\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22",
+          "distance": 4.12913216
+        },
+        {
+          "hint": "fqsShKjy-o1gAAAALQAAABEAAAA8AAAAXBiAQny970GB5DNB2GcgQmAAAAAtAAAAEQAAADwAAABlKgEAkhH-Bdw10gDgEf4FrDXSAAIADwIAAAAA",
+          "location": [
+            100.536722,
+            13.776348
+          ],
+          "name": "\u0e0b\u0e2d\u0e22\u0e2d\u0e32\u0e23\u0e35\u0e22\u0e4c\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c 4",
+          "distance": 9.967344273
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "bangkok-2",
+    "url": "https://router.project-osrm.org/route/v1/driving/100.5018,13.7563;100.4668,13.7763?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 513.7,
+              "summary": "",
+              "duration": 513.7,
+              "distance": 6043.2
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 513.7,
+          "duration": 513.7,
+          "distance": 6043.2
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Bwt9gP___38HAAAAEgAAABUAAAAcAAAA2LicQDcj5kBbtlpBUj-TQQcAAAASAAAAFQAAABwAAABlKgEALYn9BbHn0QAoif0FjOfRAAIATxEAAAAA",
+          "location": [
+            100.501805,
+            13.756337
+          ],
+          "name": "\u0e27\u0e07\u0e40\u0e27\u0e35\u0e22\u0e19\u0e2d\u0e19\u0e38\u0e2a\u0e32\u0e27\u0e23\u0e35\u0e22\u0e4c\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22",
+          "distance": 4.12913216
+        },
+        {
+          "hint": "OCeXime2m44HAAAACAAAADgAAAAAAAAAjHykQOZZrEAgphxCAAAAAAcAAAAIAAAAOAAAAAAAAABlKgEAAv_8BT020gBwAP0FrDXSAAIArwwAAAAA",
+          "location": [
+            100.466434,
+            13.776445
+          ],
+          "name": "\u0e0b\u0e2d\u0e22\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e19\u0e19\u0e17\u0e4c 24",
+          "distance": 42.70626277
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "bangkok-3",
+    "url": "https://router.project-osrm.org/route/v1/driving/100.5018,13.7563;100.5368,13.7363?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 611.2,
+              "summary": "",
+              "duration": 611.2,
+              "distance": 6393.4
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 611.2,
+          "duration": 611.2,
+          "distance": 6393.4
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Bwt9gP___38HAAAAEgAAABUAAAAcAAAA2LicQDcj5kBbtlpBUj-TQQcAAAASAAAAFQAAABwAAABlKgEALYn9BbHn0QAoif0FjOfRAAIATxEAAAAA",
+          "location": [
+            100.501805,
+            13.756337
+          ],
+          "name": "\u0e27\u0e07\u0e40\u0e27\u0e35\u0e22\u0e19\u0e2d\u0e19\u0e38\u0e2a\u0e32\u0e27\u0e23\u0e35\u0e22\u0e4c\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22",
+          "distance": 4.12913216
+        },
+        {
+          "hint": "erBWi3ywVosAAAAA3QAAAAAAAAAAAAAAAAAAADrgt0IAAAAAAAAAAAAAAADdAAAAAAAAAAAAAABlKgEANg_-BRCW0QDgEf4FbJnRAAAArwsAAAAA",
+          "location": [
+            100.536118,
+            13.73544
+          ],
+          "name": "",
+          "distance": 120.3930744
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "bangkok-4",
+    "url": "https://router.project-osrm.org/route/v1/driving/100.5018,13.7563;100.4668,13.7363?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 793.2,
+              "summary": "",
+              "duration": 793.2,
+              "distance": 7805.8
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 793.2,
+          "duration": 793.2,
+          "distance": 7805.8
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Bwt9gP___38HAAAAEgAAABUAAAAcAAAA2LicQDcj5kBbtlpBUj-TQQcAAAASAAAAFQAAABwAAABlKgEALYn9BbHn0QAoif0FjOfRAAIATxEAAAAA",
+          "location": [
+            100.501805,
+            13.756337
+          ],
+          "name": "\u0e27\u0e07\u0e40\u0e27\u0e35\u0e22\u0e19\u0e2d\u0e19\u0e38\u0e2a\u0e32\u0e27\u0e23\u0e35\u0e22\u0e4c\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22",
+          "distance": 4.12913216
+        },
+        {
+          "hint": "bIJRi96MUYsDAAAAAAAAACMAAACRAAAAMTQPQAAAAAA7kMdBgTjIQgMAAAAAAAAAIwAAAJEAAABlKgEAtv78BVaT0QBwAP0FbJnRAAQAXxIAAAAA",
+          "location": [
+            100.466358,
+            13.734742
+          ],
+          "name": "",
+          "distance": 178.8789874
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "phnom-penh-1",
+    "url": "https://router.project-osrm.org/route/v1/driving/104.916,11.5564;104.951,11.5764?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 1221.8,
+              "summary": "",
+              "duration": 1651.2,
+              "distance": 7059.4
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 1221.8,
+          "duration": 1651.2,
+          "distance": 7059.4
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "n4JmgfJyaIEpAAAAIAAAAAAAAAAAAAAAJyvmQeuerEEAAAAAAAAAACkAAAAgAAAAAAAAAAAAAABlKgEAeeNABixWsAAg5EAGMFawAAAALwsAAAAA",
+          "location": [
+            104.915833,
+            11.556396
+          ],
+          "name": "\u1795\u17d2\u179b\u17bc\u179c \u17e1\u17e4\u17e3",
+          "distance": 18.22010927
+        },
+        {
+          "hint": "oOhrgbIGNoQvAAAABwAAAAAAAAAzAAAAtFwCQutxkkAAAAAAk2YNQi8AAAAHAAAAAAAAADMAAABlKgEASm1BBnaksADYbEEGUKSwAAAAXxUAAAAA",
+          "location": [
+            104.951114,
+            11.576438
+          ],
+          "name": "",
+          "distance": 13.1253278
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "phnom-penh-2",
+    "url": "https://router.project-osrm.org/route/v1/driving/104.916,11.5564;104.881,11.5764?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 546.7,
+              "summary": "",
+              "duration": 546.7,
+              "distance": 6071.3
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 546.7,
+          "duration": 546.7,
+          "distance": 6071.3
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "n4JmgfJyaIEpAAAAIAAAAAAAAAAAAAAAJyvmQeuerEEAAAAAAAAAACkAAAAgAAAAAAAAAAAAAABlKgEAeeNABixWsAAg5EAGMFawAAAALwsAAAAA",
+          "location": [
+            104.915833,
+            11.556396
+          ],
+          "name": "\u1795\u17d2\u179b\u17bc\u179c \u17e1\u17e4\u17e3",
+          "distance": 18.22010927
+        },
+        {
+          "hint": "fOmEhN5qEY_OAAAAZgAAAAAAAAAAAAAA_a4PQ6h9jEIAAAAAAAAAAM4AAABmAAAAAAAAAAAAAABlKgEAQVtABqClsABoW0AGUKSwAAAAPwUAAAAA",
+          "location": [
+            104.880961,
+            11.576736
+          ],
+          "name": "\u1793\u17d2\u17a1\u179a\u179b\u17c1\u1781 \u17e1\u17e9\u179b\u1790",
+          "distance": 37.41060265
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "phnom-penh-3",
+    "url": "https://router.project-osrm.org/route/v1/driving/104.916,11.5564;104.951,11.5364?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 638,
+              "summary": "",
+              "duration": 638,
+              "distance": 8210.5
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 638,
+          "duration": 638,
+          "distance": 8210.5
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "n4JmgfJyaIEpAAAAIAAAAAAAAAAAAAAAJyvmQeuerEEAAAAAAAAAACkAAAAgAAAAAAAAAAAAAABlKgEAeeNABixWsAAg5EAGMFawAAAALwsAAAAA",
+          "location": [
+            104.915833,
+            11.556396
+          ],
+          "name": "\u1795\u17d2\u179b\u17bc\u179c \u17e1\u17e4\u17e3",
+          "distance": 18.22010927
+        },
+        {
+          "hint": "-R-IiwIgiItAAAAAFwAAALQBAAAAAAAACMDYQZioE0GeDjZDAAAAAEAAAAAXAAAAtAEAAAAAAABlKgEA_2VBBhoGsADYbEEGEAiwAAoAPwoAAAAA",
+          "location": [
+            104.949247,
+            11.535898
+          ],
+          "name": "",
+          "distance": 199.1334016
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "phnom-penh-4",
+    "url": "https://router.project-osrm.org/route/v1/driving/104.916,11.5564;104.881,11.5364?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 463,
+              "summary": "",
+              "duration": 463,
+              "distance": 5105.5
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 463,
+          "duration": 463,
+          "distance": 5105.5
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "n4JmgfJyaIEpAAAAIAAAAAAAAAAAAAAAJyvmQeuerEEAAAAAAAAAACkAAAAgAAAAAAAAAAAAAABlKgEAeeNABixWsAAg5EAGMFawAAAALwsAAAAA",
+          "location": [
+            104.915833,
+            11.556396
+          ],
+          "name": "\u1795\u17d2\u179b\u17bc\u179c \u17e1\u17e4\u17e3",
+          "distance": 18.22010927
+        },
+        {
+          "hint": "Tcklh4cM4YidAAAAAAAAAD4AAAAAAAAAfMDZQgAAAAD6Oy1CAAAAAJ0AAAAAAAAAPgAAAAAAAABlKgEA-V1ABmkHsABoW0AGEAiwAAIAbxEAAAAA",
+          "location": [
+            104.881657,
+            11.536233
+          ],
+          "name": "",
+          "distance": 74.01432191
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "denpasar-1",
+    "url": "https://router.project-osrm.org/route/v1/driving/115.2126,-8.6705;115.2476,-8.6505?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 552.7,
+              "summary": "",
+              "duration": 507.6,
+              "distance": 6900.8
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 552.7,
+          "duration": 507.6,
+          "distance": 6900.8
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "ifITgCWyj4ItAwAAAAAAAFYAAAAAAAAAgF0pQwAAAACS2o5BAAAAAJYBAAAAAAAAKgAAAAAAAACUQgAAwP_dBh-0e_84Ad4G3LJ7_wYAfwYAAAAA",
+          "location": [
+            115.212224,
+            -8.670177
+          ],
+          "name": "Gang Cendrawasih",
+          "distance": 54.6673562
+        },
+        {
+          "hint": "5cKHhOnCh4QCAAAAOAAAAGkAAAAKAQAAN9MXPxsYeUG4ROpB7yyTQgIAAAA4AAAAaQAAAAoBAACUQgAA5YneBhIBfP_wid4G_AB8_wQATw8AAAAA",
+          "location": [
+            115.247589,
+            -8.650478
+          ],
+          "name": "",
+          "distance": 2.717712323
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "denpasar-2",
+    "url": "https://router.project-osrm.org/route/v1/driving/115.2126,-8.6705;115.1776,-8.6505?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 584.8,
+              "summary": "",
+              "duration": 539.7,
+              "distance": 6947.3
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 584.8,
+          "duration": 539.7,
+          "distance": 6947.3
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "ifITgCWyj4ItAwAAAAAAAFYAAAAAAAAAgF0pQwAAAACS2o5BAAAAAJYBAAAAAAAAKgAAAAAAAACUQgAAwP_dBh-0e_84Ad4G3LJ7_wYAfwYAAAAA",
+          "location": [
+            115.212224,
+            -8.670177
+          ],
+          "name": "Gang Cendrawasih",
+          "distance": 54.6673562
+        },
+        {
+          "hint": "GGg9ghVqiYQWAAAAFwAAAAAAAAAAAAAAK050QVYmfUEAAAAAAAAAABYAAAAXAAAAAAAAAAAAAACUQgAASnrdBu8AfP-AeN0G_AB8_wAAHwAAAAAA",
+          "location": [
+            115.178058,
+            -8.650513
+          ],
+          "name": "Jalan Raya Muding",
+          "distance": 50.42539613
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "denpasar-3",
+    "url": "https://router.project-osrm.org/route/v1/driving/115.2126,-8.6705;115.2476,-8.6905?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 820.2,
+              "summary": "",
+              "duration": 775.1,
+              "distance": 7856
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 820.2,
+          "duration": 775.1,
+          "distance": 7856
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "ifITgCWyj4ItAwAAAAAAAFYAAAAAAAAAgF0pQwAAAACS2o5BAAAAAJYBAAAAAAAAKgAAAAAAAACUQgAAwP_dBh-0e_84Ad4G3LJ7_wYAfwYAAAAA",
+          "location": [
+            115.212224,
+            -8.670177
+          ],
+          "name": "Gang Cendrawasih",
+          "distance": 54.6673562
+        },
+        {
+          "hint": "maGNhI17joTDAAAAJQAAAAAAAAB9AQAAa3lZQgBGIUEAAAAAKyfUQsMAAAAlAAAAAAAAAH0BAACUQgAAy4neBrpke__wid4GvGR7_wAAXxYAAAAA",
+          "location": [
+            115.247563,
+            -8.690502
+          ],
+          "name": "",
+          "distance": 4.078014619
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "denpasar-4",
+    "url": "https://router.project-osrm.org/route/v1/driving/115.2126,-8.6705;115.1776,-8.6905?overview=false&alternatives=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 633.8,
+              "summary": "",
+              "duration": 588.7,
+              "distance": 8714.9
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 633.8,
+          "duration": 588.7,
+          "distance": 8714.9
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "ifITgCWyj4ItAwAAAAAAAFYAAAAAAAAAgF0pQwAAAACS2o5BAAAAAJYBAAAAAAAAKgAAAAAAAACUQgAAwP_dBh-0e_84Ad4G3LJ7_wYAfwYAAAAA",
+          "location": [
+            115.212224,
+            -8.670177
+          ],
+          "name": "Gang Cendrawasih",
+          "distance": 54.6673562
+        },
+        {
+          "hint": "9A21ifYNtYk3AAAAOAAAAAAAAAASAAAA2eMaQjOQGUIAAAAANsdKQTcAAAA4AAAAAAAAABIAAACUQgAATXndBrdke_-AeN0GvGR7_wAAXwsAAAAA",
+          "location": [
+            115.177805,
+            -8.690505
+          ],
+          "name": "",
+          "distance": 22.56791871
+        }
+      ]
+    }
+  }
+]

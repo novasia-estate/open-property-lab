@@ -1,0 +1,3857 @@
+{
+  "SP.URB.TOTL.IN.ZS": {
+    "url": "https://api.worldbank.org/v2/country/THA;KHM;IDN/indicator/SP.URB.TOTL.IN.ZS?format=json&date=2000:2025&per_page=10000",
+    "retrieved_at": "2026-11-10T13:30:36.629725+00:00",
+    "api": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 10000,
+      "total": 78,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "metadata_url": "https://api.worldbank.org/v2/indicator/SP.URB.TOTL.IN.ZS?format=json",
+    "metadata": {
+      "id": "SP.URB.TOTL.IN.ZS",
+      "name": "Urban population (% of total population)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. The data are collected and smoothed by United Nations Population Division.",
+      "sourceOrganization": "World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division",
+      "topics": [
+        {
+          "id": "19",
+          "value": "Climate Change"
+        },
+        {
+          "id": "16",
+          "value": "Urban Development "
+        }
+      ]
+    },
+    "sha256": "794adb5e7d18c1b7417b950c9cf38cca00985d01834e3acdcc4d001bccccac9f",
+    "observations": [
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2025",
+        "value": 59.3929063969984,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2024",
+        "value": 58.7509635387997,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2023",
+        "value": 58.1179353397878,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2022",
+        "value": 57.4934704226599,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2021",
+        "value": 56.8761702464027,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2020",
+        "value": 56.2785287648768,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2019",
+        "value": 55.7382049560547,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2018",
+        "value": 55.0956840515137,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2017",
+        "value": 54.4541015625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2016",
+        "value": 53.812557220459,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2015",
+        "value": 53.1720771789551,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2014",
+        "value": 52.5002136230469,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2013",
+        "value": 51.8307495117188,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2012",
+        "value": 51.1593933105469,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2011",
+        "value": 50.4830017089844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2010",
+        "value": 49.8521375148888,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2009",
+        "value": 49.16775798133,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2008",
+        "value": 48.4644736032029,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2007",
+        "value": 47.7432993585496,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2006",
+        "value": 47.0017588692457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2005",
+        "value": 46.2373757571669,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2004",
+        "value": 45.4476736441888,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2003",
+        "value": 44.6301761521872,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2002",
+        "value": 43.7824069030376,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2001",
+        "value": 42.9018895186157,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2000",
+        "value": 41.9861540600656,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2025",
+        "value": 41.10561939401,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2024",
+        "value": 40.8727033252729,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2023",
+        "value": 40.6290788072508,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2022",
+        "value": 40.374616187368,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2021",
+        "value": 40.1091858128847,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2020",
+        "value": 39.832658030922,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2019",
+        "value": 39.5830241256026,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2018",
+        "value": 37.6404336372742,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2017",
+        "value": 35.0127905056235,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2016",
+        "value": 32.4767436038024,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2015",
+        "value": 30.0669222549819,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2014",
+        "value": 27.8179557823331,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2013",
+        "value": 25.7644735090271,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2012",
+        "value": 23.9411047582349,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2011",
+        "value": 22.3824788531276,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2010",
+        "value": 21.1232251168762,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2009",
+        "value": 20.1979728726519,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2008",
+        "value": 19.6574509865325,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2007",
+        "value": 19.4035705019128,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2006",
+        "value": 19.2299832388976,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2005",
+        "value": 19.0922720052225,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2004",
+        "value": 18.9813615262763,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2003",
+        "value": 18.8881765274479,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2002",
+        "value": 18.803641734126,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2001",
+        "value": 18.7186818716995,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2000",
+        "value": 18.6242216655572,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2025",
+        "value": 62.7993377136296,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2024",
+        "value": 61.8689338391321,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2023",
+        "value": 60.9341926574707,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2022",
+        "value": 59.742374420166,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2021",
+        "value": 58.5087776184082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2020",
+        "value": 57.2358779907227,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2019",
+        "value": 55.9266166687012,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2018",
+        "value": 54.5843734741211,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2017",
+        "value": 49.2311973571777,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2016",
+        "value": 47.8801095551247,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2015",
+        "value": 46.9521043776171,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2014",
+        "value": 46.3138799467897,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2013",
+        "value": 45.8321343847773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2012",
+        "value": 45.373565813715,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2011",
+        "value": 44.8048723557374,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2010",
+        "value": 44.0018736622496,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2009",
+        "value": 42.9991311200422,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2008",
+        "value": 41.8954507430475,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2007",
+        "value": 40.7036878697821,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2006",
+        "value": 39.4424037014582,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2005",
+        "value": 38.1301594392881,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2004",
+        "value": 36.785516284484,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2003",
+        "value": 35.4270354382579,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2002",
+        "value": 34.0732781018222,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2001",
+        "value": 32.7428054763889,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2000",
+        "value": 31.4626212652205,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  },
+  "SP.URB.TOTL": {
+    "url": "https://api.worldbank.org/v2/country/THA;KHM;IDN/indicator/SP.URB.TOTL?format=json&date=2000:2025&per_page=10000",
+    "retrieved_at": "2026-11-10T13:30:36.629725+00:00",
+    "api": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 10000,
+      "total": 78,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "metadata_url": "https://api.worldbank.org/v2/indicator/SP.URB.TOTL?format=json",
+    "metadata": {
+      "id": "SP.URB.TOTL",
+      "name": "Urban population",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. It is calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization Prospects. Aggregation of urban and rural population may not add up to total population because of different country coverages.",
+      "sourceOrganization": "World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division;\nStaff estimates, World Bank (WB), note: World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, National definitions",
+      "topics": [
+        {
+          "id": "19",
+          "value": "Climate Change"
+        },
+        {
+          "id": "16",
+          "value": "Urban Development "
+        }
+      ]
+    },
+    "sha256": "0ae57d67cd6a8a7ee68155935b28228ac20b9269fbe9a71ef2cad49881323416",
+    "observations": [
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2025",
+        "value": 169698146,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2024",
+        "value": 166551891,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2023",
+        "value": 163421861,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2022",
+        "value": 160309348,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2021",
+        "value": 157409381,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2020",
+        "value": 154661763,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2019",
+        "value": 151880690,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2018",
+        "value": 148731816,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2017",
+        "value": 145581221,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2016",
+        "value": 142402781,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2015",
+        "value": 139204099,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2014",
+        "value": 135911187,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2013",
+        "value": 132610251,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2012",
+        "value": 129279032,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2011",
+        "value": 125939961,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2010",
+        "value": 122788468,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2009",
+        "value": 119585835,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2008",
+        "value": 116391264,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2007",
+        "value": 113181381,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2006",
+        "value": 109961391,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2005",
+        "value": 106748992,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2004",
+        "value": 103587360,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2003",
+        "value": 100439322,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2002",
+        "value": 97235689,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2001",
+        "value": 93997140,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2000",
+        "value": 90722754,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2025",
+        "value": 7336524,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2024",
+        "value": 7209455,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2023",
+        "value": 7079162,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2022",
+        "value": 6945130,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2021",
+        "value": 6808256,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2020",
+        "value": 6662201,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2019",
+        "value": 6523799,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2018",
+        "value": 6125801,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2017",
+        "value": 5627736,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2016",
+        "value": 5148474,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2015",
+        "value": 4697431,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2014",
+        "value": 4283067,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2013",
+        "value": 3908524,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2012",
+        "value": 3578018,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2011",
+        "value": 3295279,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2010",
+        "value": 3063021,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2009",
+        "value": 2883626,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2008",
+        "value": 2762556,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2007",
+        "value": 2685798,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2006",
+        "value": 2622783,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2005",
+        "value": 2565849,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2004",
+        "value": 2514030,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2003",
+        "value": 2465090,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2002",
+        "value": 2417253,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2001",
+        "value": 2369501,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2000",
+        "value": 2321013,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2025",
+        "value": 44976800,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2024",
+        "value": 44340234,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2023",
+        "value": 43691300,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2022",
+        "value": 42856389,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2021",
+        "value": 41966785,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2020",
+        "value": 41004632,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2019",
+        "value": 39999986,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2018",
+        "value": 38960186,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2017",
+        "value": 35033012,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2016",
+        "value": 33927770,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2015",
+        "value": 33120388,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2014",
+        "value": 32519924,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2013",
+        "value": 32011507,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2012",
+        "value": 31505634,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2011",
+        "value": 30918591,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2010",
+        "value": 30176242,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2009",
+        "value": 29291473,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2008",
+        "value": 28329633,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2007",
+        "value": 27313149,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2006",
+        "value": 26255896,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2005",
+        "value": 25172548,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2004",
+        "value": 24076873,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2003",
+        "value": 22980868,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2002",
+        "value": 21897682,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2001",
+        "value": 20841169,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL",
+          "value": "Urban population"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2000",
+        "value": 19823910,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  },
+  "SP.POP.TOTL": {
+    "url": "https://api.worldbank.org/v2/country/THA;KHM;IDN/indicator/SP.POP.TOTL?format=json&date=2000:2025&per_page=10000",
+    "retrieved_at": "2026-11-10T13:30:36.629725+00:00",
+    "api": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 10000,
+      "total": 78,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "metadata_url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json",
+    "metadata": {
+      "id": "SP.POP.TOTL",
+      "name": "Population, total",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;\nEurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;\nPopulation and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",
+      "topics": [
+        {
+          "id": "19",
+          "value": "Climate Change"
+        },
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    },
+    "sha256": "42152c8317df80333adaec5098c9be7e2ce94f4702f8fbc4e03145113785179e",
+    "observations": [
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2025",
+        "value": 285721236,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2024",
+        "value": 283487931,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2023",
+        "value": 281190067,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2022",
+        "value": 278830529,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2021",
+        "value": 276758053,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2020",
+        "value": 274814866,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2019",
+        "value": 272489381,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2018",
+        "value": 269951846,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2017",
+        "value": 267346658,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2016",
+        "value": 264627418,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2015",
+        "value": 261799249,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2014",
+        "value": 258877399,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2013",
+        "value": 255852467,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2012",
+        "value": 252698525,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2011",
+        "value": 249470032,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2010",
+        "value": 246305322,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2009",
+        "value": 243220028,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2008",
+        "value": 240157903,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2007",
+        "value": 237062337,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2006",
+        "value": 233951652,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2005",
+        "value": 230871650,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2004",
+        "value": 227926649,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2003",
+        "value": 225048008,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2002",
+        "value": 222088495,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2001",
+        "value": 219097902,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2000",
+        "value": 216077790,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2025",
+        "value": 17847982,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2024",
+        "value": 17638801,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2023",
+        "value": 17423880,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2022",
+        "value": 17201724,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2021",
+        "value": 16974305,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2020",
+        "value": 16725474,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2019",
+        "value": 16481304,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2018",
+        "value": 16274522,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2017",
+        "value": 16073372,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2016",
+        "value": 15852803,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2015",
+        "value": 15623251,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2014",
+        "value": 15396772,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2013",
+        "value": 15170208,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2012",
+        "value": 14945085,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2011",
+        "value": 14722584,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2010",
+        "value": 14500726,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2009",
+        "value": 14276810,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2008",
+        "value": 14053479,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2007",
+        "value": 13841770,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2006",
+        "value": 13639028,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2005",
+        "value": 13439202,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2004",
+        "value": 13244731,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2003",
+        "value": 13050968,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2002",
+        "value": 12855241,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2001",
+        "value": 12658484,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2000",
+        "value": 12462336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2025",
+        "value": 71619863,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2024",
+        "value": 71668011,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2023",
+        "value": 71702435,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2022",
+        "value": 71735329,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2021",
+        "value": 71727332,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2020",
+        "value": 71641484,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2019",
+        "value": 71522271,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2018",
+        "value": 71376079,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2017",
+        "value": 71160187,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2016",
+        "value": 70859841,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2015",
+        "value": 70540795,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2014",
+        "value": 70216367,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2013",
+        "value": 69845114,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2012",
+        "value": 69436098,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2011",
+        "value": 69007208,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2010",
+        "value": 68579447,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2009",
+        "value": 68121080,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2008",
+        "value": 67619830,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2007",
+        "value": 67102394,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2006",
+        "value": 66567687,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2005",
+        "value": 66017420,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2004",
+        "value": 65452047,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2003",
+        "value": 64868166,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2002",
+        "value": 64266437,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2001",
+        "value": 63651141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.POP.TOTL",
+          "value": "Population, total"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2000",
+        "value": 63007815,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  }
+}

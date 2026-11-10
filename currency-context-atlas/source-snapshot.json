@@ -1,0 +1,1283 @@
+{
+  "PA.NUS.FCRF": {
+    "url": "https://api.worldbank.org/v2/country/THA;KHM;IDN/indicator/PA.NUS.FCRF?format=json&date=2000:2025&per_page=10000",
+    "retrieved_at": "2026-11-10T13:30:36.629725+00:00",
+    "api": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 10000,
+      "total": 78,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "metadata_url": "https://api.worldbank.org/v2/indicator/PA.NUS.FCRF?format=json",
+    "metadata": {
+      "id": "PA.NUS.FCRF",
+      "name": "Official exchange rate (LCU per US$, period average)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Official exchange rate refers to the exchange rate determined by national authorities or to the rate determined in the legally sanctioned exchange market. This indicator represents the ratio of Local Currency Units relative to United States dollars.This indicator is derived as an average over the reference period.",
+      "sourceOrganization": "International Financial Statistics database, International Monetary Fund (IMF)",
+      "topics": [
+        {
+          "id": "7",
+          "value": "Financial Sector "
+        }
+      ]
+    },
+    "sha256": "031281f5d40baac09de0d38c7ce0e04fddd52044e8f7b5ea44e0a7cb43a1acc1",
+    "observations": [
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2025",
+        "value": 16477.8651797835,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2024",
+        "value": 15855.448286671,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2023",
+        "value": 15236.8846620506,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2022",
+        "value": 14849.8539362104,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2021",
+        "value": 14308.1439011896,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2020",
+        "value": 14582.2034678177,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2019",
+        "value": 14147.6713605454,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2018",
+        "value": 14236.9387734817,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2017",
+        "value": 13380.8338788891,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2016",
+        "value": 13308.3268020541,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2015",
+        "value": 13389.4129365079,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2014",
+        "value": 11865.2112962963,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2013",
+        "value": 10461.24,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2012",
+        "value": 9386.62916666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2011",
+        "value": 8770.43333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2010",
+        "value": 9090.43333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2009",
+        "value": 10389.9375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2008",
+        "value": 9698.9625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2007",
+        "value": 9141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2006",
+        "value": 9159.31666666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2005",
+        "value": 9704.74166666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2004",
+        "value": 8938.85,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2003",
+        "value": 8577.13333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2002",
+        "value": 9311.19166666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2001",
+        "value": 10260.85,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "ID",
+          "value": "Indonesia"
+        },
+        "countryiso3code": "IDN",
+        "date": "2000",
+        "value": 8421.775,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2025",
+        "value": 4013.43310400665,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2024",
+        "value": 4072.39723921641,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2023",
+        "value": 4110.65274641577,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2022",
+        "value": 4102.03786482335,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2021",
+        "value": 4098.72279505888,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2020",
+        "value": 4092.78321900877,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2019",
+        "value": 4061.14896313364,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2018",
+        "value": 4051.16690028162,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2017",
+        "value": 4050.57998591909,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2016",
+        "value": 4058.69457885304,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2015",
+        "value": 4067.75,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2014",
+        "value": 4037.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2013",
+        "value": 4027.25,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2012",
+        "value": 4033,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2011",
+        "value": 4058.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2010",
+        "value": 4184.91666666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2009",
+        "value": 4139.33333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2008",
+        "value": 4054.16666666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2007",
+        "value": 4056.16666666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2006",
+        "value": 4103.25,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2005",
+        "value": 4092.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2004",
+        "value": 4016.25,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2003",
+        "value": 3973.33333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2002",
+        "value": 3912.08333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2001",
+        "value": 3916.33333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "KH",
+          "value": "Cambodia"
+        },
+        "countryiso3code": "KHM",
+        "date": "2000",
+        "value": 3840.75,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2025",
+        "value": 32.882809252867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2024",
+        "value": 35.293538080808,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2023",
+        "value": 34.8021885808363,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2022",
+        "value": 35.0613502144776,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2021",
+        "value": 31.9770934417717,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2020",
+        "value": 31.2936732130832,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2019",
+        "value": 31.0476057805498,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2018",
+        "value": 32.3102257431457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2017",
+        "value": 33.9398110566858,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2016",
+        "value": 35.2963833333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2015",
+        "value": 34.2477166666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2014",
+        "value": 32.4798333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2013",
+        "value": 30.7259666666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2012",
+        "value": 31.0830916666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2011",
+        "value": 30.4917333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2010",
+        "value": 31.685705,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2009",
+        "value": 34.2857741234241,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2008",
+        "value": 33.3133006412337,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2007",
+        "value": 34.5181805917013,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2006",
+        "value": 37.8819832215363,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2005",
+        "value": 40.2201302083333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2004",
+        "value": 40.2224149175021,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2003",
+        "value": 41.4846166666666,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2002",
+        "value": 42.9600833333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2001",
+        "value": 44.4319,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      },
+      {
+        "indicator": {
+          "id": "PA.NUS.FCRF",
+          "value": "Official exchange rate (LCU per US$, period average)"
+        },
+        "country": {
+          "id": "TH",
+          "value": "Thailand"
+        },
+        "countryiso3code": "THA",
+        "date": "2000",
+        "value": 40.1118033333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 2
+      }
+    ]
+  }
+}

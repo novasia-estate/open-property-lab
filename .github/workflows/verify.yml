@@ -1,0 +1,63 @@
+name: Verify Open Property Lab
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  allocation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - run: dotnet run --project novasia-service-charge-allocation/tests/Checks.csproj -c Release
+      - run: dotnet pack novasia-service-charge-allocation/NovAsia.ServiceChargeAllocation.csproj -c Release -o artifacts
+      - uses: actions/upload-artifact@v4
+        with:
+          name: service-charge-allocation-package
+          path: artifacts/*.nupkg
+  redirects:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: pwsh
+        run: ./listing-redirect-planner/Test-Planner.ps1
+  accessibility:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts --prefix listing-accessibility-inspector
+      - run: npm test --prefix listing-accessibility-inspector
+      - run: npm install --no-save --ignore-scripts --prefix listing-accessibility-inspector @vscode/test-electron@2.5.2
+      - run: xvfb-run -a node listing-accessibility-inspector/host-check.cjs
+  area-ranges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install -g purescript@0.15.16 spago@1.0.5
+      - working-directory: property-area-ranges
+        run: spago test
+  python-tools-and-research:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r brochure-table-recovery/requirements.txt reportlab
+      - run: python -B -m unittest discover -s attachment-portability-audit -q
+      - run: python -B -m unittest discover -s brochure-table-recovery -q
+      - run: python -B urbanisation-context-atlas/validate.py
+      - run: python -B currency-context-atlas/validate.py
+      - run: python -B road-distance-reality-check/validate.py
+      - run: python -B tourism-recovery-gap-lab/validate.py
+      - run: python -m compileall -q brochure-table-recovery

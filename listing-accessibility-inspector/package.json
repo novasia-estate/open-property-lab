@@ -1,0 +1,9 @@
+{
+  "name":"listing-accessibility-inspector","displayName":"Listing Accessibility Inspector","publisher":"novasia-estate","version":"1.0.0",
+  "description":"Local, source-located HTML review for missing image alternatives, accessible control names and document language. No automatic compliance claims.",
+  "engines":{"vscode":"^1.85.0"},"categories":["Linters"],"license":"MIT","main":"./extension.cjs",
+  "homepage":"https://novasia.estate/","repository":{"type":"git","url":"https://github.com/novasia-estate/open-property-lab","directory":"listing-accessibility-inspector"},
+  "activationEvents":["onLanguage:html"],
+  "contributes":{"commands":[{"command":"listingAccessibility.inspect","title":"Listing Accessibility: Inspect Active HTML"}],"configuration":{"title":"Listing Accessibility Inspector","properties":{"listingAccessibility.enabled":{"type":"boolean","default":true,"description":"Review open HTML documents locally. No workspace crawling or network requests."}}}},
+  "dependencies":{"parse5":"8.1.1"},"scripts":{"test":"node --test test.cjs"}
+}

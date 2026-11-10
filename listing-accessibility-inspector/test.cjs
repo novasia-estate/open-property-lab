@@ -1,0 +1,11 @@
+const {test}=require('node:test');const assert=require('node:assert/strict');const {inspect}=require('./inspect.cjs');
+test('Named controls, decorative images and document language pass',async()=>assert.deepEqual(await inspect('<!doctype html><html lang="en"><body><img alt=""><label for="price">Quoted price</label><input id="price"><button>Save shortlist</button><a href="/unit"><img alt="Unit details"></a></body></html>'),[]));
+test('Broken real card reports missing alt, action name and input label',async()=>{const r=await inspect('<img src="room.jpg"><a href="/unit"></a><input placeholder="Price">');assert.deepEqual(r.map(x=>x.rule),['image-alternative','empty-action-name','input-label']);});
+test('Fragments do not invent document-language requirement',async()=>assert.deepEqual(await inspect('<button>View</button>'),[]));
+test('Full documents need explicit language',async()=>assert.equal((await inspect('<!doctype html><html><body></body></html>'))[0].rule,'document-language'));
+test('Valid ARIA ID references name controls',async()=>assert.deepEqual(await inspect('<span id="label">Unit reference</span><input aria-labelledby="label">'),[]));
+test('Missing and duplicate references are disclosed',async()=>{const r=await inspect('<span id="x">A</span><span id="x">B</span><button aria-labelledby="x missing"></button>');assert.equal(r.filter(x=>x.rule==='duplicate-id').length,2);assert.equal(r.filter(x=>x.rule==='label-reference').length,2);assert(r.some(x=>x.rule==='empty-action-name'));});
+test('Hidden/template controls excluded',async()=>assert.deepEqual(await inspect('<div hidden><button></button></div><template><input></template><input type="hidden">'),[]));
+test('Source offsets point into original HTML',async()=>{const source='<p>✓</p>\n<img src="x">';const [r]=await inspect(source);assert.equal(source.slice(r.start,r.end),'<img src="x">');assert.equal(r.line,2);});
+test('Markup in comments and quoted attributes is not parsed as a live image',async()=>assert.deepEqual(await inspect('<!-- <img> --><button title="<img>">View</button>'),[]));
+test('Explicit size limit rejects without partial pass',async()=>assert.rejects(inspect('x'.repeat(2*1024*1024+1))));
