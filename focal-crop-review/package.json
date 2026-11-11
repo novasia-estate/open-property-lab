@@ -1,0 +1,1 @@
+{"name":"focal-crop-review-lab","version":"1.0.0","private":true,"license":"MIT","scripts":{"test":"node test.cjs"},"devDependencies":{"jsdom":"26.1.0"}}
